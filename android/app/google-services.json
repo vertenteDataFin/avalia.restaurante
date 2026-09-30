@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719186430318",
+    "project_id": "app-mob-alimento-2026",
+    "storage_bucket": "app-mob-alimento-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719186430318:android:86b56255fbead669d1197f",
+        "android_client_info": {
+          "package_name": "com.appmobalimento.app_mob_alimento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMCwj1mEtoDwXDk3ImPMrB_xNqlc2HF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
