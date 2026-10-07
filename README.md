@@ -110,3 +110,4 @@ appMobAlimento/
    ```bash
    flutter build apk --release
    ```
+"# avaliaRestaurante" 
