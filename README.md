@@ -49,7 +49,7 @@ O **Avalia Restaurante** tem como objetivo fornecer um canal direto, acessível 
 - **Autenticação**: Firebase Authentication.
 - **Banco de Dados**: Cloud Firestore (NoSQL em tempo real).
 - **Armazenamento de Fotos**: Cloud Storage for Firebase.
-- **Hospedagem Web**: Firebase Hosting.
+- **Hospedagem Web**: GitHub Pages (deploy automático via GitHub Actions a cada push na branch `main`). O Firebase Hosting foi abandonado por instabilidade de acesso em redes Starlink; o banco Firestore, o Auth e o Storage continuam no mesmo projeto Firebase.
 - **Design System**: Material 3 com paleta corporativa Verde Bandeira Escuro (`#005A2B`).
 
 ---
